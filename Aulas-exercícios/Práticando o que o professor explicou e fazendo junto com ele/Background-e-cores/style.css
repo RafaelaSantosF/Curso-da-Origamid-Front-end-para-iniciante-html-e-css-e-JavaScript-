@@ -1,0 +1,11 @@
+h1 {
+  /* background-color: red; */
+   background: #8844ee; /* Isso aqui é hexadecimal que são representado por 6 caracteres que vão de 0 até F*/
+   color: rgba(0, 0, 0, 0.5);
+}
+
+a {
+  background-color: seagreen;
+  color: white;
+  font-size: 30px;
+}
